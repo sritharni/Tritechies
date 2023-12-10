@@ -11,7 +11,7 @@
 ### Team Members:
 1. Sritharni Chellan Natarajan (028269772) - sritharni.chellannatarajan01@student.csulb.edu
 2. Anto Jevin Antony Vincent (032162570) - antojevin.antonyvincent01@student.csulb.edu
-3. Sai Abhi Tanikella (030698055) - saiabhi.tanikella01@student.csulb.edu
+3. Sai Abhijyan Tanikella (030698055) - saiabhijyan.tanikella01@student.csulb.edu
 
 ### Abstract:
 The evolution of digital technology brought about the phases
